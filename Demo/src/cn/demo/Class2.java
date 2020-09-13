@@ -1,17 +1,18 @@
 package cn.demo;
 
-//江
-//123456
+/**
+ * Class2
+ * 
+ * @author 15176
+ *
+ */
 public class Class2 {
 	public static void main(String[] args) {
-		//2222
-		//3333
 		System.out.println("bbbbb");
-		//44444
-		// 2222
 	}
 }
-class student{
+
+class student {
 	private String id;
 	private String name;
 }
