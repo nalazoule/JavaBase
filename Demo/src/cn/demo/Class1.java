@@ -4,8 +4,10 @@ package cn.demo;
 //测试
 public class Class1 {
 	public static void main(String[] args) {
-		//111111
+		//11111122222
+		////222
 		System.out.println("Class1");
+		//33333333
 	}
 }
 class people{
