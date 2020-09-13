@@ -8,3 +8,7 @@ public class Class1 {
 		System.out.println("Class1");
 	}
 }
+class people{
+	private String name;
+	private String id;
+}
