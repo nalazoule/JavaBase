@@ -8,11 +8,14 @@ package cn.demo;
  */
 public class Class2 {
 	public static void main(String[] args) {
+	System.out.println("这是一个测试Class2");
 		System.out.println("bbbbb");// 2222222
 	}
 }
 
 class student {
-	private String id;
+	// student的name
 	private String name;
+	// student的id
+	private String id;
 }
