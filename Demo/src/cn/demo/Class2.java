@@ -20,8 +20,11 @@ class student {
 	// student的name----
 	// student的name000
 	// ----
+	// student的name000
 	private String name;
 	// student的id----
+	// student的id000
+	// student的id000
 	// student的id000
 	private String id;
 }
